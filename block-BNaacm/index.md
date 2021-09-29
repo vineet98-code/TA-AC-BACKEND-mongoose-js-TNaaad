@@ -6,3 +6,12 @@ Q. create a article schema with title and description
 
 - create a model on top of it
 - export it
+
+
+
+
+
+
+
+
+    
