@@ -37,3 +37,5 @@ For example:-
 - each article and comment should have author
 - each comment should belong to one of the article
 - add appropriate validations in all schemas
+
+
