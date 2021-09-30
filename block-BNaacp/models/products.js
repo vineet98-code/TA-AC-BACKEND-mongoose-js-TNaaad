@@ -1,9 +1,11 @@
 var mongoose = require('mongoose');
+
 var Schema = mongoose.Schema;
 
 var productsSchema = new Schema({
     title : {type : String, required : true},
-    category : String,
+    category : [String],
+    
     price : {type: Number, default : 0}
 }, {timestamps : true});
 
